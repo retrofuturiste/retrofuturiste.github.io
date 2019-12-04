@@ -1,1 +1,1 @@
-<h1>Welcome</h1>
+Messin' around with GitHub pages. Might put something else here someday.
